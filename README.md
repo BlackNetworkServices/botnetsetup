@@ -1,4 +1,3 @@
-# botnetsetup
 <h1>IRC Botnet Setup</h1>
 <h2>How to set up:</h2>
 <p>First give permission to setup.sh "sudo chmod +x setup.sh"</p>
