@@ -1,4 +1,5 @@
 <h1>IRC Botnet Setup</h1>
+<h2><span style="color:rgb(255,221,2)"><a href="https://www.blacknet.xyz">Black Network Services</a></span></h2>
 <h2>How to set up:</h2>
 <p>First give permission to setup.sh "sudo chmod +x setup.sh"</p>
 <p>Then run setup.sh with root permissions "sudo ./setup.sh", if root permissions aren't given, the script <b>will not</b> run.</p>
